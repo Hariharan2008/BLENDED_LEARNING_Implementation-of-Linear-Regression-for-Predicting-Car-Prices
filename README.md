@@ -1,4 +1,4 @@
-![4](https://github.com/user-attachments/assets/f46d2a14-1466-47d6-8001-6460e57c041d)![WhatsApp Image 2026-02-17 at 10 17 56 PM](https://github.com/user-attachments/assets/39c15c53-24ab-4c78-b6b3-2c45ab96e0cc)# BLENDED_LEARNING
+
 # Implementation-of-Linear-Regression-for-Predicting-Car-Prices
 ## AIM:
 To write a program to predict car prices using a linear regression model and test the assumptions for linear regression.
@@ -106,7 +106,7 @@ plt.show()
 
 ```
 ## Output:
-![1](https://github.com/user-attachments/assets/961f7646-fc8b-4ec9-8ae4-1dd9a95eba02)
+
 ![2](https://github.com/user-attachments/assets/1db6aa66-f61b-4faa-a4fe-00fb4893b4ef)
 
 
