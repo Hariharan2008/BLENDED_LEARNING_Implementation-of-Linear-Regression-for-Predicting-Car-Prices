@@ -29,8 +29,8 @@ Verify linearity, normality, homoscedasticity, and independence using residual p
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: 
-RegisterNumber:  
+Developed by: S Hariharan
+RegisterNumber: 212225040109
 */
 ```
 ```
